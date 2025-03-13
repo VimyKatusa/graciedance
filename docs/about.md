@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 - Started dancing at the age of 2 (England, Greenwich): classical ballet, highland, Irish dance
 - Moved to Edmonton, continued classical ballet, highland and started some studio jazz
 - Moved back to England, Orpington, continued with classical ballet, studio jazz and started tap
